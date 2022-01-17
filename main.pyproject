@@ -1,0 +1,3 @@
+{
+    "files": ["qml/controls/NormalButton.qml","qml/controls/MessageBoxOKCancel.qml","child.qml","qml/controls/TopBarButton.qml","qml/pages/homePage.qml","qml/pages/settingsPage.qml","qml/controls/ToggleButton.qml","images/logo.png","qml/controls/LeftMenuButton.qml","qml/controls/MessageBox.qml","qml/main.qml","resources.qrc","main.py","setup.py","lib/DataFrameModel.py"]
+}
